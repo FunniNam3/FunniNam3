@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Ethan
 I'm a Computer Science Major
-
 🔭 I’m currently working on a chess web app and various other games.
 
 ## How to reach me 
