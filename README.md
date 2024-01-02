@@ -6,7 +6,7 @@ I'm a Computer Science Major
 ## How to reach me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5)](www.linkedin.com/in/ethan-v-nguyen)
 &nbsp;
-[![Email](https://img.shields.io/badge/kayleytvu@gmail.com-red)](mailto:nguyen.ev03@gmail.com)
+[![Email](https://img.shields.io/badge/nguyen.ev03@gmail.com)](mailto:nguyen.ev03@gmail.com)
 
 <!--
 **FunniNam3/FunniNam3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
