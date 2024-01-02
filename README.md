@@ -3,7 +3,7 @@ I'm a Computer Science Major
 🔭 I’m currently working on a chess web app and various other games.
 
 ## How to reach me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5)](www.linkedin.com/in/ethan-v-nguyen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5)](https://www.linkedin.com/in/ethan-v-nguyen)
 &nbsp;
 [![Email](https://img.shields.io/badge/nguyen.ev03@gmail.com-red)](mailto:nguyen.ev03@gmail.com)
 
