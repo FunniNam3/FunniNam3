@@ -1,6 +1,6 @@
 # ʕ•̫͡•ʔ Hi, I'm Ethan
 I'm a Computer Science Major
-🔭 I’m currently working on a chess web app and various other games.
+🔭 I’m currently working on a chess web app as well as various other games and applications
 
 ## How to reach me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5)](https://www.linkedin.com/in/ethan-v-nguyen)
