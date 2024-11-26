@@ -1,6 +1,6 @@
 # ʕ•̫͡•ʔ Hi, I'm Ethan
-I'm a Computer Science Major
-🔭 I’m a student at Texas A&M
+I'm a Computer Engineering Major
+🔭 at Texas A&M
 
 ## How to reach me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5)](https://www.linkedin.com/in/ethan-v-nguyen)
